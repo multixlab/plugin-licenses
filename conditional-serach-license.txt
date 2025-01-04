@@ -1,0 +1,52 @@
+
+END-USER LICENSE AGREEMENT (EULA)
+Conditional Search
+Version 1.0
+ 
+Effective Date: 01.01.2025
+
+1. Grant of License
+1.1. License Grant: Multixlab ("Licensor") grants you ("Licensee") a limited, non-exclusive, non-transferable, and revocable license to use the Conditional Search ("Intellij Plugin") in accordance with the terms of this Agreement.
+1.2. Usage Scope
+The Licensee may use the Plugin based on the type of license purchased:
+
+    Personal License: Permits use of the Plugin solely for personal, non-commercial purposes on any number of devices owned by the Licensee.
+
+    Commercial License: Permits use of the Plugin for commercial purposes. Each individual user in an organization must purchase a separate license. The License is non-transferable between users and devices.
+    
+2. Restrictions
+2.1. The Licensee may not:
+   - Distribute, sublicense, or transfer the Plugin to any third party.
+   - Reverse-engineer, decompile, or modify the Plugin in any way.
+   - Use the Plugin to create derivative works.
+   - Share license keys or authentication tokens associated with the Plugin.
+2.2. The Licensee must comply with all applicable laws and regulations regarding the use of the Plugin.
+
+3. Ownership
+3.1. The Plugin, including all intellectual property rights, remains the sole property of the Licensor.
+3.2. This Agreement does not grant the Licensee any ownership rights to the Plugin, only the right to use it under the terms specified herein.
+
+4. License Validation and Termination
+4.1. The Plugin may require periodic validation of the license. The Licensee agrees to allow such validation processes.
+4.2. This license is valid until terminated. The Licensor may terminate the license if the Licensee violates any terms of this Agreement.
+
+5. Support and Updates
+5.1. The Licensor may, at its discretion, provide updates or patches to the Plugin.
+5.2. The Licensor does not guarantee that updates will be provided or that the Plugin will remain compatible with future versions of IntelliJ IDEA or other JetBrains products.
+
+6. Disclaimer of Warranties
+6.1. The Plugin is provided "AS IS," without any warranties of any kind, express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose.
+6.2. The Licensor does not warrant that the Plugin will be error-free or operate without interruption.
+
+7. Limitation of Liability
+7.1. To the fullest extent permitted by law, the Licensor shall not be liable for any indirect, incidental, or consequential damages arising from the use or inability to use the Plugin, even if advised of the possibility of such damages.
+
+8. Governing Law
+8.1. This Agreement shall be governed by and construed in accordance with the laws of Germany, without regard to its conflict of law principles.
+8.2. The Plugin may be used anywhere in the world; however, any disputes arising from or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts in Munich, Germany.
+
+9. Miscellaneous
+9.1. This Agreement constitutes the entire agreement between the Licensor and the Licensee concerning the Plugin and supersedes all prior agreements.
+9.2. If any provision of this Agreement is found to be unenforceable, the remaining provisions shall remain in full force and effect.
+
+By using the Plugin, the Licensee agrees to be bound by the terms of this Agreement.
